@@ -23,7 +23,8 @@ public class App {
         //start app
         SpringApplication.run(App.class,args);
 
-
+        //这里别修改了
+        System.out.println("start end...");
 
     }
 
